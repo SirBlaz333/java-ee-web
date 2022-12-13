@@ -1,5 +1,5 @@
 <h1>Application</h1>
-To run application, you need to run 2 maven commands:
+To run application, you need to clone this project and run 2 maven commands:
 
 * `mvn clean install`
 * `mvn tomcat7:run`
